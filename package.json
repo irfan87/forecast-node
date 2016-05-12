@@ -1,0 +1,19 @@
+{
+  "name": "express-forecast",
+  "version": "1.0.0",
+  "description": "A simple forecast site using express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmad Irfan <irfanshukri203@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "forecastio": "^1.0.1",
+    "morgan": "^1.7.0",
+    "nodemon": "^1.9.2",
+    "zippity-do-dah": "0.0.2"
+  }
+}
